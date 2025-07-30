@@ -41,7 +41,7 @@ This project is ideal for beginners who want to learn the basics of DOM manipula
 M Meghana 
 📅 MCA Graduate, 2024  
 🌐 GitHub: [@mmeghana70](https://github.com/mmeghana70)  
-📌 Live Project: [https://mmeghana70.github.io/my-todo-app](https://mmeghana70.github.io/my-todo-app)
+📌 Live Project: [https://mmeghana70.github.io/My-To-Do-App](https://mmeghana70.github.io/my-todo-app)
 
 
 
