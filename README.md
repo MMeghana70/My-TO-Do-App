@@ -15,10 +15,6 @@ This project is ideal for beginners who want to learn the basics of DOM manipula
 ✨ Clean and minimal UI  
 
 
- 🚀 Live Demo
-
-👉  [Click here to use the app](https://mmeghana70.github.io/My-TO-Do-App/)
-
 
 
 🛠️ Technologies Used
